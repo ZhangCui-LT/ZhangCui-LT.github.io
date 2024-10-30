@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
  
-<img src="assets/images/me1.jpg" alt="Photo" hspace="0" width="30%" align="right"/> Hi! I am Zhang Cui, a first-year master degree student of language technology at University of Helsinki. I am particularly interested in research relevant to language education technology.  In my free time, I would like to explore new places with friends, reading and cooking.
+<img src="assets/images/me1.jpg" alt="Photo" hspace="30" width="30%" align="right"/> Hi! I am Zhang Cui, a first-year master degree student of language technology at University of Helsinki. I am particularly interested in research relevant to language education technology.  In my free time, I would like to explore new places with friends, reading and cooking.
 
 ## Find me on
 
