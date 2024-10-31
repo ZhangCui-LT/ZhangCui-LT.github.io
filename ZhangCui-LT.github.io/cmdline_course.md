@@ -2,7 +2,7 @@
 layout: default
 ---
 # Welcome to the course!
-![cmd logo](https://github.com/ZhangCui-LT/ZhangCui.github.io-/blob/master/assets/images/cmd.jpg)
+![cmd logo](./assets/images/cmd.jpg)
 # Introduction to the course
 # 1. Week1：Introduction to command-line environments
 This week introduces how to set up the command line environments, which is essential. After this, this week includes  command line basics  and  introduces terminal-based text editors, such as, nano. I have a good command of this aprt as I practiced a lot on the command line basic through this course. What I specifically learnt from this week:
