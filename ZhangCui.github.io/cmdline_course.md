@@ -2,7 +2,7 @@
 layout: default
 ---
 # Welcome to the course!
-![alt text](https://github.com/ZhangCui-LT/ZhangCui.github.io-/blob/master/assets/images/cmd.jpg"cmd logo")
+![cmd logo](https://github.com/ZhangCui-LT/ZhangCui.github.io-/blob/master/assets/images/cmd.jpg)
 # Introduction to the course
 1. Week1：This week introduces command line basics and setting up the command line environments, at the end of the week, to be specific, you can:
 * list the contents of your current directory,
