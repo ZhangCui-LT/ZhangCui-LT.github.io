@@ -23,6 +23,7 @@ My email address is of the form cui.zhang@helsinki.fi.
 [Programming for Digital Humanities](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2223-d85cca5c-0a41-4332-9f2b-5f8d82d602c9/LDA-H313/Programming_for_Digital_Humanities_LDA_H511_H311_H313_Luento_opetus), Fall 2024
 
 [Basic level Finnish 2A](https://studies.helsinki.fi/courses/course-implementation/otm-f291b7ad-24b0-4e5a-a91c-d5cd9127139b/SUO-121), Fall 2024
+
 ## Projects
 Command line tools course-GitHub project, 2024
 Research project of master thesis in comparative language education between Finland and China, 2022
@@ -34,3 +35,7 @@ Advanced project for teaching Chinese for Finnish kids, 2021
 [Reading](https://en.wikipedia.org/wiki/Reading)
 [Cooking](https://en.wikipedia.org/wiki/Cooking)
 [Tea](https://en.wikipedia.org/wiki/Tea)
+
+
+## Link to CV
+https://github.com/ZhangCui-LT/ZhangCui.github.io/blob/cmdline-course/docs/CV_Cui%20Zhang.pdf
