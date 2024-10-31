@@ -35,4 +35,4 @@ Advanced project for teaching Chinese for Finnish kids, 2021
 [Tea](https://en.wikipedia.org/wiki/Tea)
 
 ## Link to CV
-https://github.com/ZhangCui-LT/ZhangCui.github.io/blob/cmdline-course/docs/CV_Cui%20Zhang.pdf
+[CV](https://github.com/ZhangCui-LT/ZhangCui.github.io/blob/cmdline-course/docs/CV_Cui%20Zhang.pdf)
