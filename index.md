@@ -28,9 +28,11 @@ Command line tools course-GitHub project, 2024
 Research project of master thesis in comparative language education between Finland and China, 2022
 Advanced project for teaching Chinese for Finnish kids, 2021
 
-
 ## Misc. 
 
 [Reading](https://en.wikipedia.org/wiki/Reading)
 [Cooking](https://en.wikipedia.org/wiki/Cooking)
 [Tea](https://en.wikipedia.org/wiki/Tea)
+
+## Link to CV
+https://github.com/ZhangCui-LT/ZhangCui.github.io/blob/cmdline-course/docs/CV_Cui%20Zhang.pdf
